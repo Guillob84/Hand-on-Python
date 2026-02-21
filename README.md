@@ -17,6 +17,4 @@ It is intended as a personal learning record and a reference for core Python con
 - Basic error handling  
 
 ## 🛠️ Technologies
-- Google Colab (Python 3) 
-
-## 📂 Project Structure
+- Google Colab (Python 3)
