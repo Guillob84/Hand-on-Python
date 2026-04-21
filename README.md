@@ -1,4 +1,4 @@
-# Hand-on-Python
+# Hands-on-Python
 This is the first Hand-on Python basics: 
 
 # Python Basics 🐍
