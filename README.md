@@ -7,14 +7,20 @@ This repository contains a collection of scripts, exercises, and examples create
 
 It is intended as a personal learning record and a reference for core Python concepts.
 
-## 📌 Topics Covered
+## 📌 Part 1:Topics Covered
 - Variables and data types  
 - Conditional statements  
 - Loops (for / while)  
 - Functions  
 - Basic data structures (lists, tuples, sets, dictionaries)  
 - Input / output  
-- Basic error handling  
+- Basic error handling
+
+## Part 2: Topics covered
+- Advanced Pythonic Operations
+- Numerical Computing (NumPy)
+- Data Manipulation (Pandas)
+- Basic Visualization
 
 ## 🛠️ Technologies
 - Google Colab (Python 3)
